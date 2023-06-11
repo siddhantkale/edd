@@ -1,0 +1,129 @@
+.space {
+    margin: 0 5%;
+}
+
+.leftal {
+    margin: 0 3%;
+}
+
+.navbar-brand {
+    font-family: "roboto", sans-serif;
+    font-weight: 700;
+    color: cornsilk !important;
+}
+
+body {
+    text-align: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: left;
+    margin-left: 150px;
+    font-size: 8rem;
+    text-shadow: 2px 2px black;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    color: whitesmoke;
+}
+
+.homepage {
+    height: 27rem;
+    width: 100%;
+    background-color: #ff4c68;
+}
+
+#home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.brand-line {
+    font-size: 3rem;
+    color: black;
+    text-shadow: 1px 1px white;
+    text-align: right;
+    margin-right: 200px;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hometext {
+    font-size: 2rem;
+    margin-top: 4rem;
+    color: black;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 900;
+}
+
+.img1 {
+    width: 15%;
+}
+
+.aboutpage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20rem;
+   margin-top:50px;
+}
+#About {
+    background-color: white;
+}
+.feat{
+    width:200px;
+    margin-left:100px;
+    margin-right:100px;
+}
+#Features .fas{
+    font-size: 4rem;
+    color:#ff4c68;
+    margin-bottom:2rem;
+}
+h3{
+    font-size: 1.5rem;
+    text-shadow: 1px 1px white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    color:black; 
+}
+.aboutpage p{
+    color:#8f8f8f;
+    font-size:1.2rem;
+}
+#Features .fas:hover{
+    color:crimson;
+}
+.fab{
+    font-size: 2rem;
+    margin-left:1rem;
+    margin-right:1rem;
+}
+.supported .fas{
+    font-size: 2rem;
+    margin-left:1rem;
+    margin-right:1rem;
+}
+.fab:hover{
+    color:blue
+}
+.supported .fas:hover{
+    color:blue;
+}
+.supported{
+    display:block;
+}
+.ca{
+    height:15rem;
+    margin-top:3rem;
+    background-color:#ff4c68;
+}
+h2{
+    padding-top: 2rem;
+    font-size:4rem;
+    text-shadow: 2px 2px black;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 900;
+    color: whitesmoke;
+}
